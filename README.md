@@ -2,7 +2,7 @@
 # Simple Covid Alert Console Application in Java
 # Design of Solution:
 * I have Created in total Four classes named MobileDevice.java, Government.java, Contact.java and main.java. Methods in given classes:
-## Mobile Device class:
+# Mobile Device class:
 ## MobileDevice(String configFile, Government contactTracer):
 * This method will do the work of getting the credentials from the config file for particular mobile device object and converting the combined string of address and devicename to hash value.
 * recordContact(String individual, int date, int duration):
@@ -38,7 +38,7 @@
 # Contact Class:
 ## void setContact(String individual, int date, int duration):
 * This method will store the contact information in a predefined manner such that all the three different values of the contact can be stored together
-# String getContact():
+## String getContact():
 * This method is use to return contact which have been stored.
 ## Functional flow of the system(Suggested):
 * 1)First the object of Government class is made and passed to mobile device class that it can access the methods of mobile device class.
