@@ -1,5 +1,5 @@
 # CovidAlert
-# Simple Covid Alert Console Application in Java
+# Covid Alert Console Application in Java
 # Design of Solution:
 * I have Created in total Four classes named MobileDevice.java, Government.java, Contact.java and main.java. Methods in given classes:
 # Mobile Device class:
